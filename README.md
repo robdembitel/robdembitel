@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **robdembitel/robdembitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hi 👋, I am Robin Demuth</h1>
+<h3>Senior full-stack web developer at <a href="https://diconium.com" target="_blank">diconium</a> </h3>
+
+ 
+- Interested in web technologies,
+- software architecture,
+- and state of the art technologies in general.
